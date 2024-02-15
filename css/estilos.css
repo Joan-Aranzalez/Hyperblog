@@ -40,8 +40,15 @@ body
 {
     font-size: 20px;
 }
-#post
+#post 
 {
     background-color: white;
-    padding: 1em;
+    color: #333;
+    font-size: 1em;
+}
+#footer
+{
+    text-align: center;
+    color: white;
+    background-color: #444;
 }
