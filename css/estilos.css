@@ -34,3 +34,13 @@ body
 {
     font-size: 20px;
 }
+#post 
+{
+    font-size: 1em;
+}
+#footer
+{
+    text-align: center;
+    color: white;
+    background-color: #444;
+}
